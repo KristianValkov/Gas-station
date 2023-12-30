@@ -1,0 +1,13 @@
+C:\Users\Admin\Desktop\TaskGas_Station\bin\Debug\TaskGas_Station.exe.config
+C:\Users\Admin\Desktop\TaskGas_Station\bin\Debug\TaskGas_Station.exe
+C:\Users\Admin\Desktop\TaskGas_Station\bin\Debug\TaskGas_Station.pdb
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.Form1.resources
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.Form2.resources
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.Properties.Resources.resources
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.exe
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.pdb
+C:\Users\Admin\Desktop\TaskGas_Station\obj\Debug\TaskGas_Station.Form3.resources
